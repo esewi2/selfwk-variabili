@@ -11,7 +11,7 @@ stringa ='benvenuto a tutti';
 console.log(`il valored della variabile stringa è ${stringa}`);
 
 const PIGRECO ='3.14159265359';
-PIGRECO = 200;
+PIGRECO = 300;
 console.log(PIGRECO)
 
 
