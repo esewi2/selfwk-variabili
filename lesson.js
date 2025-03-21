@@ -1,19 +1,19 @@
 
 let num1 =' 12';
-console.log(num1);
+console.log("il valore della variabile num1 é " + num1);
 
 let num2 = '4'; 
-console.log(num2);
+console.log(`il valore della variabile num2 é ${num2}`);
 
-let str = num1 + num2;
-console.log(str);
+let stringa = 'ciao a tutti'
 
-str = 'number';
-console.log(str);
+stringa ='benvenuto a tutti';
+console.log(`il valored della variabile stringa è ${stringa}`);
 
 const PIGRECO ='3.14159265359';
 PIGRECO = 200;
 console.log(PIGRECO)
+
 
 
 
