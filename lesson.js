@@ -1,4 +1,4 @@
-
+/*------------selfwork variabili------------*/
 let num1 =' 12';
 console.log("il valore della variabile num1 é " + num1);
 
@@ -13,6 +13,10 @@ console.log(`il valored della variabile stringa è ${stringa}`);
 const PIGRECO ='3.14159265359';
 PIGRECO = 300;
 console.log(PIGRECO)
+/*___________________________________________________________________________*/
+
+
+
 
 
 
